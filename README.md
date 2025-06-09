@@ -19,8 +19,7 @@
 Current Focus: Deep Learning, AI-driven Security Solutions, Cloud-Native Applications
 </td>
 <td width="40%">
-<img align="center" alt="Coding" width="100%" src="![ProfilePic](https://github.com/user-attachments/assets/8809c410-4665-4e06-a5d9-c948ca911a14)
-">
+<img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/8809c410-4665-4e06-a5d9-c948ca911a14">
 </td>
 </tr>
 </table>
