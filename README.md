@@ -27,9 +27,9 @@
 class DhruvProfile:
     def __init__(self):
         self.current_projects = [
-            "🤖 AI-powered threat detection system",
-            "🔐 Zero-trust security framework",
-            "📊 ML-driven data analytics platform",
+            "🤖 Google Meet Bot",
+            "🔐 NetworkMonitoringTool",
+            "🤖 DocuQuest",
             "🌟 Open source contributions"
         ]
         self.learning = ["Quantum Computing", "Advanced MLOps", "Web3 Security"]
@@ -129,28 +129,13 @@ class DhruvProfile:
 
 ---
 
-## 🎨 Latest Projects
-
-<div align="center">
-
-| 🤖 AI Projects | 🔐 Security Tools | 💻 Web Applications |
-|:---:|:---:|:---:|
-| Neural Network Optimizer | Vulnerability Scanner | Real-time Analytics Dashboard |
-| Computer Vision Pipeline | Penetration Testing Suite | E-commerce Platform |
-| NLP Sentiment Analyzer | Network Security Monitor | Social Media App |
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruvp9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv.ldrp9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dhruv.at/)
 
 </div>
 
@@ -161,16 +146,6 @@ class DhruvProfile:
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Watch my contributions get eaten!
-
-![Snake animation](https://github.com/dhruvldrp9/dhruvldrp9/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
