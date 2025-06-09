@@ -107,15 +107,13 @@ class DhruvProfile:
 
 ---
 
-## 📊 GitHub Analytics
-
+📊 Coding Journey
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvldrp9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=dhruvldrp9&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhruvldrp9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvldrp9&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvldrp9&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -124,14 +122,6 @@ class DhruvProfile:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhruvldrp9&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvldrp9&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
