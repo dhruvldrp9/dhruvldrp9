@@ -18,7 +18,7 @@
 🌐 Tech Innovator exploring the intersection of AI, security, and emerging technologies
 Current Focus: Deep Learning, AI-driven Security Solutions, Cloud-Native Applications
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvldrp9&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="100%"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvldrp9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 </td>
 <td width="40%">
 <img align="center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/8809c410-4665-4e06-a5d9-c948ca911a14">
