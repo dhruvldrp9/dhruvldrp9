@@ -8,16 +8,21 @@
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-🔬 **AI/ML Researcher** passionate about pushing the boundaries of artificial intelligence  
-🛡️ **Cybersecurity Expert** specializing in ethical hacking and security architecture  
-💻 **Full-Stack Developer** building scalable, intelligent applications  
-🌐 **Tech Innovator** exploring the intersection of AI, security, and emerging technologies  
-
-**Current Focus:** Deep Learning, AI-driven Security Solutions, Cloud-Native Applications
+🚀 About Me
+<table>
+<tr>
+<td width="60%">
+🔬 AI/ML Researcher passionate about pushing the boundaries of artificial intelligence
+🛡️ Cybersecurity Expert specializing in ethical hacking and security architecture
+💻 Full-Stack Developer building scalable, intelligent applications
+🌐 Tech Innovator exploring the intersection of AI, security, and emerging technologies
+Current Focus: Deep Learning, AI-driven Security Solutions, Cloud-Native Applications
+</td>
+<td width="40%">
+<img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</td>
+</tr>
+</table>
 
 ---
 
