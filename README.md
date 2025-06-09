@@ -17,7 +17,7 @@
 💻 Full-Stack Developer building scalable, intelligent applications
 🌐 Tech Innovator exploring the intersection of AI, security, and emerging technologies
 Current Focus: Deep Learning, AI-driven Security Solutions, Cloud-Native Applications
-<br>
+<br><br><br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvldrp9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="100%"/>
 </td>
 <td width="40%">
